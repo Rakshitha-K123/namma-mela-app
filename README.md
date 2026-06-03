@@ -1,22 +1,19 @@
-# Namma Mela Android App
+# Namma Mela
 
-Native Kotlin Android app for rural drama theaters. The project uses Jetpack Compose, Material 3, and an MVVM-style state holder.
+An Android application developed as part of an internship project.
 
-## Open In Android Studio
+## Features
+- User-friendly interface
+- Event management functionality
+- Android-based mobile application
 
-1. Open this folder in Android Studio:
-   `C:\Users\91807\Documents\Codex\2026-05-04\files-mentioned-by-the-user-readme`
-2. Let Gradle sync.
-3. Run the `app` configuration on an emulator or Android phone.
+## Technologies Used
+- Java/Kotlin
+- Android SDK
+- XML
 
-## Build From Terminal
-
-```powershell
-.\gradlew.bat assembleDebug
-```
-
-If Android Studio creates the Gradle wrapper, use that wrapper command. Without a wrapper, run the same task from Android Studio.
-
+## Author
+Rakshitha K
 ## Current Features
 
 - Home dashboard for upcoming village drama shows
